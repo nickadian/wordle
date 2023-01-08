@@ -1,0 +1,28 @@
+{
+    "2068d558-fcc8-4e89-872e-876dd7cf1b93": {
+        "answer": "float",
+        "number_of_guesses": 6,
+        "guesses_remaining": 4,
+        "guesses": [
+            "nicks",
+            "times"
+        ],
+        "scores": [
+            [
+                "INCORRECT_LETTER",
+                "INCORRECT_LETTER",
+                "INCORRECT_LETTER",
+                "INCORRECT_LETTER",
+                "INCORRECT_LETTER"
+            ],
+            [
+                "WRONG_LOCATION",
+                "INCORRECT_LETTER",
+                "INCORRECT_LETTER",
+                "INCORRECT_LETTER",
+                "INCORRECT_LETTER"
+            ]
+        ],
+        "game_status": "IN_PROGRESS"
+    }
+}
